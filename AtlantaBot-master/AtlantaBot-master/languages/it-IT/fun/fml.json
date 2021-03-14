@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Ottieni un FML casuale",
+    "USAGE": "{{prefix}}fml",
+    "EXAMPLES": "{{prefix}}fml",
+    "FOOTER": "Raider Community Bot | Made By Zakaria"
+}

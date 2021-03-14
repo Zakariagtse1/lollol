@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Senin için özel bir şaka yapabilirim!",
+    "USAGE": "{{prefix}}joke",
+    "EXAMPLES": "{{prefix}}joke",
+    "FOOTER": "Raider Community Bot | Made By Zakaria"
+}
